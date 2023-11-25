@@ -48,7 +48,7 @@ logo()
 st.title("Dashboard Pengadaan Barang dan Jasa")
 
 st.markdown("""
-*Dashboard* ini dibuat sebagai alat bantu untuk mempermudah para pelaku pengadaan di seluruh wilayah Provinsi Kalimantan Barat. Data yang disajikan, antara lain:
+*Dashboard* ini dibuat sebagai alat bantu untuk mempermudah para pelaku pengadaan di seluruh wilayah Kabupaten Balangan. Data yang disajikan, antara lain:
 * **SIRUP**
   * Profil RUP Daerah
   * Profil RUP Perangkat Daerah
@@ -81,5 +81,5 @@ st.markdown("""
 
 Sumber data *Dashboard* ini berasal dari **API JSON Versi 2** yang ditarik harian dari [ISB LKPP](https://lkpp.go.id). 
 
-@2023 - **Kurnia Ramadhan** - LPSE PROV. KALBAR 
+@2023 - **Kurnia Ramadhan** - LPSE Kabupaten Balangan
 """)
